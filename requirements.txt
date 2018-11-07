@@ -1,0 +1,17 @@
+dateparser==0.7.0
+datefinder==0.6.1 
+nltk 
+scikit-learn==0.19.1 
+scikit-image==0.13.1 
+requests==2.18.4 
+opencv-python==3.4.3.18 
+numpy==1.14.0 
+fuzzywuzzy==0.16.0 
+fuzzysearch==0.5.0 
+flask==0.12.2 
+flasgger==0.9.1 
+waitress==1.1.0 
+scipy 
+matplotlib 
+jupyter 
+flask-cors 
