@@ -14,5 +14,5 @@ if __name__ == '__main__':
     from multiprocessing import cpu_count
     th = 2 * cpu_count() + 1
     print("starting with", th, "threads")
-    Port = 8089
+    Port = 80
     serve(app, host='0.0.0.0', port=Port, threads=th)

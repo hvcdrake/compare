@@ -181,5 +181,5 @@ def prepareAllAndGetFlaskApp():
 
 if __name__ == '__main__':
     prepareAllAndGetFlaskApp()
-    Port = 8089
+    Port = 80
     app.run(host='0.0.0.0', port=Port, threaded=True, debug=True)
